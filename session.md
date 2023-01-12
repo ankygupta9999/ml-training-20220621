@@ -16,3 +16,17 @@ Feature store benefits:
 
 DB Feature store:
 ![image](https://user-images.githubusercontent.com/54708512/211979995-c9d7c343-f22a-43c8-a7e0-91df8aaddd22.png)
+
+
+Lab:
+EDA:
+![image](https://user-images.githubusercontent.com/54708512/211980875-597d3227-f00a-4957-b255-d5dfc39f9921.png)
+
+Cluster:
+![image](https://user-images.githubusercontent.com/54708512/211981190-17d01e16-c748-47a1-822b-8ba050a10e8a.png)
+
+
+https://labs.databricks.com/#/odl/2dd128bd-1b8a-40d8-928f-c030f5e8ad62/32825796-4138-4abf-b901-1772998fa168
+https://dbc-45f387bb-9482.cloud.databricks.com
+odl_user_833021@databrickslabs.com
+fhki12NGT*G2
